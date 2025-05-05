@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Combien y a-t-il de continents sur Terre ?",
+        "options": ["5", "6", "7", "8"],
+        "correct_answer": 2,
+        "explanation": "Il existe 7 continents : Afrique, Amérique du Nord, Amérique du Sud, Antarctique, Asie, Europe, Océanie."
+    },
+    {
+        "question": "Quelle est la langue officielle du Brésil ?",
+        "options": ["Espagnol", "Français", "Portugais", "Anglais"],
+        "correct_answer": 2,
+        "explanation": "Le portugais est la langue officielle du Brésil en raison de son passé colonial."
+    },
+    {
+        "question": "Qui a peint la Joconde ?",
+        "options": ["Pablo Picasso", "Michel-Ange", "Léonard de Vinci", "Claude Monet"],
+        "correct_answer": 2,
+        "explanation": "La Joconde a été peinte par Léonard de Vinci au début du XVIe siècle."
+    },
+    {
+        "question": "Quel est le plus grand océan du monde ?",
+        "options": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+        "correct_answer": 3,
+        "explanation": "Le Pacifique est l’océan le plus vaste, couvrant un tiers de la surface terrestre."
+    },
+    {
+        "question": "Quel scientifique a formulé la théorie de la relativité ?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galilée", "Stephen Hawking"],
+        "correct_answer": 1,
+        "explanation": "La relativité restreinte a été introduite par Einstein en 1905."
+    },
+    {
+        "question": "Quelle planète est surnommée la planète rouge ?",
+        "options": ["Mars", "Jupiter", "Vénus", "Saturne"],
+        "correct_answer": 0,
+        "explanation": "Mars est surnommée ainsi à cause de sa surface riche en oxyde de fer."
+    },
+    {
+        "question": "Combien de côtés a un hexagone ?",
+        "options": ["5", "6", "7", "8"],
+        "correct_answer": 1,
+        "explanation": "Un hexagone est une figure géométrique à six côtés."
+    },
+    {
+        "question": "Quelle est la monnaie officielle du Royaume-Uni ?",
+        "options": ["Euro", "Dollar", "Livre sterling", "Franc"],
+        "correct_answer": 2,
+        "explanation": "Le Royaume-Uni utilise la livre sterling, pas l’euro."
+    },
+    {
+        "question": "Combien de lettres contient l'alphabet français ?",
+        "options": ["24", "25", "26", "27"],
+        "correct_answer": 2,
+        "explanation": "L'alphabet français utilise les 26 lettres de l'alphabet latin."
+    },
+    {
+        "question": "Quel gaz les plantes absorbent-elles pour produire de l’oxygène ?",
+        "options": ["Oxygène", "Dioxyde de carbone", "Azote", "Hydrogène"],
+        "correct_answer": 1,
+        "explanation": "Les plantes absorbent le dioxyde de carbone (CO2) et rejettent de l’oxygène grâce à la photosynthèse."
+    }
+]

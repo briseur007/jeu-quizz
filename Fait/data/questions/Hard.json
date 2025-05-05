@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Quel est le langage de programmation principalement utilisé pour l’intelligence artificielle ?",
+        "options": ["Java", "C++", "Python", "PHP"],
+        "correct_answer": 2,
+        "explanation": "Python est le langage privilégié en IA pour sa simplicité et ses bibliothèques spécialisées."
+    },
+    {
+        "question": "En quelle année l’homme a-t-il marché sur la Lune pour la première fois ?",
+        "options": ["1965", "1969", "1972", "1980"],
+        "correct_answer": 1,
+        "explanation": "Neil Armstrong a marché sur la Lune le 20 juillet 1969, lors de la mission Apollo 11."
+    },
+    {
+        "question": "Qui a écrit *Le Prince* ?",
+        "options": ["Platon", "Descartes", "Nicolas Machiavel", "Aristote"],
+        "correct_answer": 2,
+        "explanation": "Le Prince est une œuvre de Machiavel sur l'art de gouverner."
+    },
+    {
+        "question": "Quelle est la racine carrée de 144 ?",
+        "options": ["10", "11", "12", "13"],
+        "correct_answer": 2,
+        "explanation": "La racine carrée de 144 est 12, car 12 × 12 = 144."
+    },
+    {
+        "question": "Quel est le nom scientifique de l’eau ?",
+        "options": ["H2O", "CO2", "NaCl", "CH4"],
+        "correct_answer": 0,
+        "explanation": "L’eau est composée de deux atomes d’hydrogène et un d’oxygène : H₂O."
+    },
+    {
+        "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+        "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
+        "correct_answer": 1,
+        "explanation": "Wellington est la capitale politique de la Nouvelle-Zélande."
+    },
+    {
+        "question": "Quel philosophe grec a été le maître de Platon ?",
+        "options": ["Aristote", "Socrate", "Epicure", "Thalès"],
+        "correct_answer": 1,
+        "explanation": "Socrate fut le mentor de Platon, qui enseigna à Aristote par la suite."
+    },
+    {
+        "question": "Quelle est la plus grande chaîne de montagnes au monde ?",
+        "options": ["Andes", "Rockies", "Alpes", "Himalaya"],
+        "correct_answer": 3,
+        "explanation": "L’Himalaya est la plus haute chaîne de montagnes, avec l’Everest à son sommet."
+    },
+    {
+        "question": "Quel pays a inventé les échecs ?",
+        "options": ["Chine", "Inde", "Iran", "Égypte"],
+        "correct_answer": 1,
+        "explanation": "Le jeu d’échecs trouve ses origines en Inde, sous le nom de Chaturanga."
+    },
+    {
+        "question": "Combien de bits y a-t-il dans un octet ?",
+        "options": ["4", "8", "16", "32"],
+        "correct_answer": 1,
+        "explanation": "Un octet est composé de 8 bits en informatique."
+    }
+]

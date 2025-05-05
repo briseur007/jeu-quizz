@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "options": ["Paris", "Berlin", "Rome", "Madrid"],
+        "correct_answer": 0,
+        "explanation": "Paris est la capitale de la France depuis des siècles."
+    },
+    {
+        "question": "Combien font 6 + 3 ?",
+        "options": ["8", "9", "10", "7"],
+        "correct_answer": 1,
+        "explanation": "6 + 3 = 9, un calcul simple d’addition."
+    },
+    {
+        "question": "De quelle couleur est le ciel quand il fait beau ?",
+        "options": ["Gris", "Bleu", "Rouge", "Vert"],
+        "correct_answer": 1,
+        "explanation": "Le ciel est généralement bleu par beau temps."
+    },
+    {
+        "question": "Quel animal miaule ?",
+        "options": ["Chien", "Vache", "Chat", "Oiseau"],
+        "correct_answer": 2,
+        "explanation": "Le chat est l’animal domestique qui miaule."
+    },
+    {
+        "question": "Combien y a-t-il de jours dans une semaine ?",
+        "options": ["5", "6", "7", "8"],
+        "correct_answer": 2,
+        "explanation": "Une semaine comprend 7 jours."
+    },
+    {
+        "question": "Quel fruit est jaune et courbé ?",
+        "options": ["Pomme", "Banane", "Poire", "Ananas"],
+        "correct_answer": 1,
+        "explanation": "La banane est reconnaissable à sa courbure et sa couleur jaune."
+    },
+    {
+        "question": "Combien font 10 - 4 ?",
+        "options": ["5", "6", "7", "8"],
+        "correct_answer": 1,
+        "explanation": "10 - 4 = 6."
+    },
+    {
+        "question": "Quel est le contraire de 'chaud' ?",
+        "options": ["Humide", "Tiède", "Froid", "Sec"],
+        "correct_answer": 2,
+        "explanation": "Le contraire de chaud est froid."
+    },
+    {
+        "question": "Dans quel continent se trouve le Burkina Faso ?",
+        "options": ["Asie", "Europe", "Amérique", "Afrique"],
+        "correct_answer": 3,
+        "explanation": "Le Burkina Faso est un pays de l’Afrique de l’Ouest."
+    },
+    {
+        "question": "Quel est l’animal qui aboie ?",
+        "options": ["Chien", "Chat", "Cheval", "Mouton"],
+        "correct_answer": 0,
+        "explanation": "Le chien est connu pour aboyer."
+    }
+]
